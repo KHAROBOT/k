@@ -1,0 +1,140 @@
+
+
+
+#home{
+	background-image: url("1as.JPEG");
+		
+
+
+	margin:0;
+
+
+}
+
+#profil{
+	background-color:#141414;
+}
+
+h1{
+	color:white;
+	font-size:3em;
+}
+.profil img{
+border:2px solid transparent;
+}
+.profil:hover img{
+border:9px solid #fff;
+transition:all .3s;
+}
+
+
+#po{
+	background: black;
+	height:100PX;
+	
+}
+.profil:hover p{
+	color:#fff;
+}
+
+form{
+
+	color:white;
+	background:rgba(0,0,0,.75);
+	height:300px ;
+	width: 300px;
+	margin:auto;
+	margin-top: 50px ;
+   
+	padding:70px;
+border-radius:30px ;
+.poetsen-one-regular {
+  font-family: "Poetsen One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+}
+
+
+nav img{
+	width:300px;
+	margin:20px;
+	width:px;
+	height:60px;
+	border-radius:20px;
+
+
+}
+h2{
+	color:white;
+}
+
+
+input[type=submit]{
+	color: white;
+	border-radius:30px;
+	background:red;
+	padding:20px;
+	outline:none ;
+
+}
+input[type=submit]:hover{
+		background:rgb(173,7,15);
+
+}
+
+input[type=password]{
+	color:white;
+
+	background:#333;
+	border-radius:10px;
+	padding:20px;
+	opacity: .8;
+	outline:none ;
+}
+input[type=email]{
+	color:white;
+	background-color:#333;
+	border-radius:10px;
+	padding:20px;
+	opacity: .8;
+	outline:none ;
+}
+
+label{
+	color
+}
+a{
+	color: white ;
+}
+p{
+	color:#333;
+}
+.profil P{
+border:0 solid #fff;
+transition:all .3s;
+}
+ a{
+	text-decoration:none;
+}
+.row{
+	display: flex;
+	margin:50px;
+}
+
+.bt:hover a{
+border:10px solid red;
+transition:all .3s;
+
+.bt{
+	display: flex;
+	border:10px solid red;
+	height:20px ;
+	width: 150px;
+	
+	
+}
+}
+
+}
